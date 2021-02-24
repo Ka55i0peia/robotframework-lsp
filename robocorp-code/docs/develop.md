@@ -57,7 +57,7 @@ To release a new version:
 
 - Create release branch (`git branch -D release-robocorp-code&git checkout -b release-robocorp-code`)
 
-- Update version (`python -m dev set-version 0.7.1`).
+- Update version (`python -m dev set-version 0.8.0`).
 
 - Update README.md to add notes on features/fixes.
 
